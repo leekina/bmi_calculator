@@ -1,6 +1,7 @@
 # bmi_calculator
 
-A new Flutter project.
+Complete Flutter Delvelopment Bootcamp with Dart : section 12에 해당하는 code 입니다.
+https://github.com/londonappbrewery/Flutter-Course-Resources 에서 원본을 찾아보실수 있습니다.
 
 ## Getting Started
 
