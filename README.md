@@ -14,4 +14,4 @@ https://github.com/londonappbrewery/Flutter-Course-Resources 에서 원본을 �
     - nullSafety가 적용되면서 of.copywith 방식을 이용하지 않아도 되는 부분을 제거.
 - voidCallback
     - 함수를 전달할때 기존 Function 변수를 이용하는것에서 voidCallback함수를 이용하는것으로 변경.
-- 이외 deprecated된 위젯 변경
+- 이외 deprecated 위젯 변경
